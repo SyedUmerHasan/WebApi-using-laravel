@@ -9,6 +9,11 @@ This repo is functionality complete — PRs and issues welcome!
 
 ----------
 
+
+![](postman-api-check.gif)
+
+
+
 # Getting started
 
 ## Installation
